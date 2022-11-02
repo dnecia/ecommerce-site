@@ -1,6 +1,6 @@
 # E-commerce Site
 ## Description 
-The goal of this challenge was to build the back end for an e-commerce site. I took a working Express.js API and configure it to use Sequelize to interact with a MySQL database.
+The goal of this challenge was to build the back end for an e-commerce site. I took a working Express.js API and configured it to use Sequelize to interact with a MySQL database.
 
 ```text
 Acceptance Criteria
@@ -17,9 +17,9 @@ WHEN I test API POST, PUT, and DELETE routes in Insomnia
 THEN I am able to successfully create, update, and delete data in my database
 ```
 ## Table of Contents
--[Installation](#installation)
--[Usage](#usage)
--[About](#about)
+- [Installation](#installation)
+- [Usage](#usage)
+- [About](#about)
 
 ## Installation
 In order to install this application you must have node.js. You can download the repository and run npm install and then npm start in the terminal. You can run the api using localhost and insomnia.
@@ -30,3 +30,6 @@ The api's were called using insomnia. The screenshots and link to the video are 
 ![screenshot of api calls](./assets/images/Screen%20Shot%202022-11-01%20at%2010.06.51%20PM.png)
 
 [video of walkthrough in Insomnia](https://drive.google.com/file/d/1KdTyS9OmRPa3Ph3fUegz-rx5rDO1q7JP/view)
+
+## About
+My name is Donniecia Corke and I am currently taking a Full Stack Web Development bootcamp. My github is @dnecia. You can also reach me at my email donnieciamc@gmail.com
